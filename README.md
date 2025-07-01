@@ -5,4 +5,5 @@ Running the programming assignment and unittest from jupyter notebook like:
 
 Result plot:
 
-![Result Plot](plot.png)
+
+![Result Plot](./Bokeh_Plot.png)
